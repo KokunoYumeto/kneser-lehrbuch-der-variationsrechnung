@@ -57,7 +57,7 @@ see the `README` and `COPYING` files there.
 ## Earlier versions
 
 Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20836971](https://doi.org/10.5281/zenodo.20836971).
-That record is no longer updated.
+Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
